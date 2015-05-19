@@ -1,0 +1,58 @@
+# AngelCode Bitmap Font Generator configuration file
+fileVersion=1
+
+# font settings
+fontName=华文琥珀
+charSet=134
+fontSize=32
+aa=2
+scaleH=100
+useSmoothing=1
+isBold=0
+isItalic=0
+useUnicode=1
+disableBoxChars=1
+outputInvalidCharGlyph=0
+
+# character alignment
+paddingDown=4
+paddingUp=2
+paddingRight=4
+paddingLeft=2
+spacingHoriz=1
+spacingVert=2
+
+# output file
+outWidth=256
+outHeight=128
+outBitDepth=32
+fontDescFormat=0
+fourChnlPacked=0
+textureFormat=png
+textureCompression=0
+alphaChnl=0
+redChnl=3
+greenChnl=3
+blueChnl=3
+invA=0
+invR=0
+invG=0
+invB=0
+
+# outline
+outlineThickness=0
+
+# selected chars
+
+
+# imported icon images
+icon="D:\work\h5\musicPeng\资源\字体\4.21倒计时\0.png",48,0,0,0
+icon="D:\work\h5\musicPeng\资源\字体\4.21倒计时\1.png",49,0,0,0
+icon="D:\work\h5\musicPeng\资源\字体\4.21倒计时\2.png",50,0,0,0
+icon="D:\work\h5\musicPeng\资源\字体\4.21倒计时\3.png",51,0,0,0
+icon="D:\work\h5\musicPeng\资源\字体\4.21倒计时\4.png",52,0,0,0
+icon="D:\work\h5\musicPeng\资源\字体\4.21倒计时\5.png",53,0,0,0
+icon="D:\work\h5\musicPeng\资源\字体\4.21倒计时\6.png",54,0,0,0
+icon="D:\work\h5\musicPeng\资源\字体\4.21倒计时\7.png",55,0,0,0
+icon="D:\work\h5\musicPeng\资源\字体\4.21倒计时\8.png",56,0,0,0
+icon="D:\work\h5\musicPeng\资源\字体\4.21倒计时\9.png",57,0,0,0

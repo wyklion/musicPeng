@@ -1,0 +1,24 @@
+{
+    "project_type": "javascript",
+
+    "debugMode" : 1,
+    "showFPS" : false,
+    "frameRate" : 60,
+    "id" : "gameCanvas",
+    "renderMode" : 0,
+    "engineDir":"frameworks/cocos2d-html5",
+
+    "modules" : ["cocos2d","spine"],
+
+    "jsList" : [
+        "src/resource.js",
+        "src/playScene.js",
+        "src/selectHeroLayer.js",
+        "src/readyLayer.js",
+        "src/paopaoLayer.js",
+        "src/gameOverLayer.js",
+        "src/loading.js",
+        "src/myAudio.js",
+        "src/app.js"
+    ]
+}

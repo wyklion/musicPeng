@@ -1,0 +1,125 @@
+
+”–≥Ë»˝ ”Õº-02.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bi
+  rotate: false
+  xy: 87, 2
+  size: 24, 14
+  orig: 24, 14
+  offset: 0, 0
+  index: -1
+bizui
+  rotate: false
+  xy: 184, 32
+  size: 33, 20
+  orig: 33, 20
+  offset: 0, 0
+  index: -1
+hudiejie
+  rotate: true
+  xy: 162, 27
+  size: 37, 20
+  orig: 37, 20
+  offset: 0, 0
+  index: -1
+sai
+  rotate: false
+  xy: 135, 89
+  size: 106, 24
+  orig: 106, 24
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 89
+  size: 131, 165
+  orig: 131, 165
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 135, 115
+  size: 130, 139
+  orig: 130, 139
+  offset: 0, 0
+  index: -1
+yan
+  rotate: false
+  xy: 110, 66
+  size: 78, 21
+  orig: 78, 21
+  offset: 0, 0
+  index: -1
+yanyan
+  rotate: false
+  xy: 2, 7
+  size: 83, 9
+  orig: 83, 9
+  offset: 0, 0
+  index: -1
+yanyanyan
+  rotate: true
+  xy: 476, 176
+  size: 78, 21
+  orig: 78, 21
+  offset: 0, 0
+  index: -1
+youer
+  rotate: true
+  xy: 267, 103
+  size: 39, 48
+  orig: 39, 48
+  offset: 0, 0
+  index: -1
+yougebo
+  rotate: false
+  xy: 267, 144
+  size: 61, 110
+  orig: 61, 110
+  offset: 0, 0
+  index: -1
+youtui
+  rotate: false
+  xy: 330, 158
+  size: 74, 96
+  orig: 74, 96
+  offset: 0, 0
+  index: -1
+zui
+  rotate: false
+  xy: 190, 54
+  size: 47, 33
+  orig: 47, 33
+  offset: 0, 0
+  index: -1
+zuitui
+  rotate: false
+  xy: 406, 168
+  size: 68, 86
+  orig: 68, 86
+  offset: 0, 0
+  index: -1
+zuizui
+  rotate: true
+  xy: 243, 85
+  size: 28, 17
+  orig: 28, 17
+  offset: 0, 0
+  index: -1
+zuoer
+  rotate: true
+  xy: 110, 23
+  size: 41, 50
+  orig: 41, 50
+  offset: 0, 0
+  index: -1
+zuogebo
+  rotate: true
+  xy: 2, 18
+  size: 69, 106
+  orig: 69, 106
+  offset: 0, 0
+  index: -1
