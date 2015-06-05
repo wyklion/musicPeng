@@ -125,6 +125,7 @@ var PlayLayer = cc.Layer.extend({
 	time:TOTAL_TIME,
 	stopTime:0, //三秒不动给提示。
 	level:0,// 泡泡难度等级
+	userName:null,//判断是否app打开。
 	//correctTime:0,
 	ctor:function(type){
 		this._super();
@@ -250,8 +251,8 @@ var PlayLayer = cc.Layer.extend({
 		if(iconUrl==null || nameUrl==null)
 			return false;
 		var icon = decodeURI(iconUrl);
-		var name = decodeURI(nameUrl);
-		this.showInfo(icon,name,0.55);
+		this.userName = decodeURI(nameUrl);
+		this.showInfo(icon,this.userName,0.55);
 		return true;
 	},
 	showUserInfo:function(info){

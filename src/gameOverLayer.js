@@ -29,7 +29,7 @@ var GameOverLayer = cc.Layer.extend({
 		playEffect(res.resultMusic_mp3);
 		this._super();
 
-		this.inApp = g_playLayer.userId!=null;
+		this.inApp = g_playLayer.userName!=null;
 		this.inWeixin = this.isWeixin();
 		//背景
 		/*
